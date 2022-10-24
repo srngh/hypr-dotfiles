@@ -55,7 +55,7 @@ Most programs have been themed by others or myself with the tokyo night color sc
 Certain Sites are re-styled with the stylus addon. Some Configs have been modified.
 
 | Site | Original Author | Original Theme Name| Modified? |
-|-|-|-|
+|-|-|-|-|
 | Arch Wiki | voovs | [Archwiki colourful dark](https://uso.kkx.one/style/198102) | yes |
 | Github | fun840 | [Github Tokyo Night](https://userstyles.org/styles/235618/github-tokyo-night) | no |
 | Gitlab | [vednoc](https://gitlab.com/vednoc) | [dark-gitlab](https://gitlab.com/vednoc/dark-gitlab) | no |
