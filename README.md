@@ -5,7 +5,7 @@ dotfiles for my hyprland desktop
 # Applications
 
 | Program | Usage |  
-|-|-|-|
+|-|-|
 | Window Server | wayland |
 | Audio Server | pipewire |
 | Compositor | Hyprland |
