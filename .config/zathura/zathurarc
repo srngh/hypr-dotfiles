@@ -1,0 +1,28 @@
+#§$$$=========------------------==========$$$§#
+#$                                           $#
+#     _____     _   _                         #
+#    |__  /__ _| |_| |__  _   _ _ __ __ _     #
+#      / // _` | __| '_ \| | | | '__/ _` |    #
+#     / /| (_| | |_| | | | |_| | | | (_| |    #
+#    /____\__,_|\__|_| |_|\__,_|_|  \__,_|    #
+#                                             #
+#$                                           $#
+#§$$$=========------------------==========$$$§#
+
+set default-bg "#292D3E"
+set default-fg "#D0D0D0"
+
+set inputbar-bg "#292D3E"
+set inputbar-fg "#D0D0D0"
+
+set notification-bg "#292D3E"
+set notification-fg "#D0D0D0"
+
+set recolor-lightcolor "#292D3E"
+set recolor-darkcolor "#D0D0D0"
+
+set statusbar-bg "#292D3E"
+set statusbar-fg "#D0D0D0"
+
+set recolor true
+set recolor-keephue false

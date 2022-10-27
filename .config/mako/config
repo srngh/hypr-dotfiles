@@ -1,0 +1,23 @@
+#§$$$=======----------=======$$$§#   
+#$                              $#
+#     __  __       _             #
+#    |  \/  | __ _| | _____      #
+#    | |\/| |/ _` | |/ / _ \     #
+#    | |  | | (_| |   < (_) |    #
+#    |_|  |_|\__,_|_|\_\___/     #
+#                                #
+#$                              $#
+#§$$$=======----------=======$$$§#   
+
+layer=overlay
+background-color=#1a1b26
+border-size=3
+border-color=#9ece6a
+border-radius=9
+default-timeout=5000
+width=200
+padding=9
+# margin=10
+icons=1
+text-alignment=left
+anchor=bottom-right

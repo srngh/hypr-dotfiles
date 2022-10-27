@@ -1,0 +1,9 @@
+{
+	"font_size": 15,
+	"theme": "Enki-Theme.sublime-theme",
+	"color_scheme": "Packages/Enki Theme/scheme/Enki-Tokyo-Night.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+}
