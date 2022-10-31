@@ -1,0 +1,83 @@
+/*
+
+Background so wie immer,
+
+Struktur vereinfachen
+
+Höhe und Breite 27% oder so
+
+Farben anpassen
+
+Icons aktivieren
+
+modes dmenu
+
+font iosevka
+
+rounding per config here?
+
+*/
+
+* {
+    background:         rgb(26, 27, 38, 100%);
+    foreground:         #a9b1d6;
+    green:              #9ece6a;
+    blue:               #7aa2f7;
+    red:                #f7768e;
+    yellow:             #e0af68;
+    magenta:            #ad8ee6;
+    background-color:   var(background);
+    text-color:         var(foreground);
+    padding:            3;
+    border-color: var(background);
+
+
+}
+
+element {
+    highlight: bold;
+    children: [ element-icon, element-text ];
+    background-color: var(background);
+}
+
+element selected.normal {
+    // different background
+    background-color: var(green);
+    text-color: var(background);
+}
+element alternate.normal {
+    // different background
+    background-color: var(background);
+    text-color: var(foreground);
+}
+
+window {
+    height: 30%;
+    width: 25%;
+}
+
+listview {
+    scrollbar: true;
+    cycle: false;
+    border-color: var(background);
+}
+
+overlay {
+    background-color: var(background);
+}
+
+scrollbar {
+    // color yellow
+    handle-color: var(yellow);
+}
+
+inputbar {
+    children: [ entry ];
+}
+
+entry {
+    placeholder: " Launch";
+    font:        "Iosevka Extralight Extended 45";
+    placeholder-color: var(foreground);
+    text-color: var(magenta);
+}
