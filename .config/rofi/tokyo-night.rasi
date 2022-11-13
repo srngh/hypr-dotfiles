@@ -1,22 +1,17 @@
 /*
 
-Background so wie immer,
+#§$$$=====--------=====$$$§#
+#$                        $#
+#     ____        __ _     #
+#    |  _ \ ___  / _(_)    #
+#    | |_) / _ \| |_| |    #
+#    |  _ < (_) |  _| |    #
+#    |_| \_\___/|_| |_|    #
+#                          #
+#$                        $#
+#§$$$=====--------=====$$$§#
 
-Struktur vereinfachen
-
-Höhe und Breite 27% oder so
-
-Farben anpassen
-
-Icons aktivieren
-
-modes dmenu
-
-font iosevka
-
-rounding per config here?
-
-*/
+ */
 
 * {
     background:         rgb(26, 27, 38, 100%);
